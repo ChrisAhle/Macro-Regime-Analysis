@@ -6,7 +6,7 @@
 How do stocks, Treasuries, credit, TIPS, gold and commodities perform when growth
 and inflation are rising or falling, and what does today's regime imply for a
 portfolio benchmarked to **80% VTI / 20% BND** (the benchmark of RPI's James
-Investment Fund)?
+Investment Fund)
 
 This project classifies every month from May 2007 to the present into one of four
 macro regimes using FRED data, then measures the return, volatility, hit rate and
